@@ -11,7 +11,7 @@ h2 {
 	margin: 0 0 20px 0;
 	font-weight: 500;
 	font-size: 34px;
-	color: #333;
+	color: #f3efef;
 	text-transform: uppercase;
 }
 h3 {
@@ -99,9 +99,10 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	border-color: rgba(231, 231, 231, 0);
 }
 #menu a.navbar-brand {
-	font-family: 'Dancing Script', cursive;
+	font-family: '';
+	/*font-family: 'Dancing Script', cursive;*/
 	font-size: 36px;
-	color: #8eb640;
+	color: #f0e9e9;
 	font-weight: 700;
 	letter-spacing: 1px;
 }
