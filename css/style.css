@@ -100,7 +100,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 #menu a.navbar-brand {
 	font-family: '';
-	/*font-family: 'Dancing Script', cursive;*/
+	font-family: 'Dancing Script', cursive;
 	font-size: 36px;
 	color: #f0e9e9;
 	font-weight: 700;
@@ -200,7 +200,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	font-weight: 600;
 }
 .intro p {
-	color: #fff;
+	color: #080808;
 	font-size: 32px;
 	font-weight: 300;
 	margin-top: 10px;
@@ -573,7 +573,7 @@ color: #777;
 /* Footer Section*/
 #footer {
 	background: #262626;
-	padding: 1px 0 0 0;
+	padding: 1 0 0 0;
 }
 #footer h3 {
 	color: #8eb640;
