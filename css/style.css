@@ -304,6 +304,8 @@ header .intro-text {
 #portfolio .section-title h2 {
 	color: #fff;
 }
+
+
 .categories {
 	padding-bottom: 30px;
 	text-align: center;
@@ -425,7 +427,7 @@ ol.type li a:hover {
 	background: rgba(0, 0, 0, 0.6);
 }
 #team h2, #team p {
-	color: #fff;
+	color: #fafcf9;
 }
 #team hr {
 	background: #fff;
